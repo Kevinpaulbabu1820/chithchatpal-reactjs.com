@@ -1,0 +1,15 @@
+/* About.css */
+
+.about-container {
+    max-width: 800px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the content horizontally */
+    padding: 20px;
+    text-align: justify;
+  }
+
+  h2{
+    text-align: center;
+  }
+  
+  /* Add additional styles as needed */
+  
